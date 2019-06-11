@@ -1,10 +1,10 @@
-site_name: Ichor Official Website
+site_name: Ichor
 site_description: Official Website for Ichor
 site_url: https://ichor-rbx.github.io/
 site_author: Kohl
 
 repo_url: https://github.com/ichor-rbx/
-repo_name: Ichor
+repo_name: GitHub
 edit_uri: ichor-rbx.github.io/edit/deploy/docs
 
 theme:
@@ -22,7 +22,9 @@ extra_css:
     - stylesheets/codehilite.css
 
 nav:
-    - Introduction: index.md
+    - Home: index.md
     - Codex:
-        - Overview: codex/overview.md
-    - Credit: credit.md
+        - Introduction: codex/introduction.md
+    - Divisions:
+        - Axiom: divisions/axiom.md
+        - Maxim: divisions/maxim.md

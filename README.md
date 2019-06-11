@@ -1,2 +1,2 @@
-# Official Ichor Website
-https://ichor-rbx.github.io/
+# Documentation
+Builds from `/docs/` and deploys to master branch using Travis CI.
