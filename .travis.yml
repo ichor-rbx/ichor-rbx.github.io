@@ -2,7 +2,7 @@ language: python
 
 python: 3.6
 
-branches: master
+branches: deploy
 
 install:
     - pip install mkdocs mkdocs-material
