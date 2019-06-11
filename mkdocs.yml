@@ -3,18 +3,20 @@ site_description: Official Website for Ichor
 site_url: https://ichor-rbx.github.io/
 site_author: Kohl
 
-edit_uri: "edit/deploy/docs"
+repo_url: https://github.com/ichor-rbx/
+repo_name: Ichor
+edit_uri: ichor-rbx.github.io/edit/deploy/docs
 
 theme:
-    name: "material"
-    custom_dir: "theme"
-    logo: "assets/images/Ichor.png"
-    favicon: "assets/images/Ichor.png"
+    name: material
+    custom_dir: theme
+    logo: assets/images/Ichor.png
+    favicon: assets/images/Ichor.png
     feature:
         tabs: true
     palette:
-        primary: "grey"
-        accent: "yellow"
+        primary: grey
+        accent: yellow
 extra_css:
     - stylesheets/dark_theme.css
     - stylesheets/codehilite.css
