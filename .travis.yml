@@ -18,4 +18,4 @@ deploy:
     local_dir: site
     target-branch: master
     on:
-        branch: master
+        branch: deploy
