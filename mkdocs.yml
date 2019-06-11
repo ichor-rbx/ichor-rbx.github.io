@@ -13,7 +13,7 @@ theme:
     feature:
         tabs: true
     palette:
-        primary: "white"
+        primary: "grey"
         accent: "yellow"
 extra_css:
     - stylesheets/dark_theme.css
@@ -21,5 +21,6 @@ extra_css:
 
 nav:
     - Introduction: index.md
-    - Codex: index.md
-    - Credit: index.md
+    - Codex:
+        - Overview: codex/overview.md
+    - Credit: credit.md
