@@ -6,12 +6,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://ichor-rbx.github.io/codex/overview/</loc>
+     <loc>https://ichor-rbx.github.io/codex/introduction/</loc>
      <lastmod>2019-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://ichor-rbx.github.io/credit/</loc>
+     <loc>https://ichor-rbx.github.io/divisions/axiom/</loc>
+     <lastmod>2019-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://ichor-rbx.github.io/divisions/maxim/</loc>
      <lastmod>2019-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
