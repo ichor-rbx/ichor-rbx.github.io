@@ -1,5 +1,7 @@
-[![Travis CI][travis-status]](https://travis-ci.com/ichor-rbx/ichor-rbx.github.io)
+[![Travis CI][travis-status]][travis-link]
+
 [travis-status]: https://travis-ci.com/ichor-rbx/ichor-rbx.github.io.svg?branch=deploy
+[travis-link]: https://travis-ci.com/ichor-rbx/ichor-rbx.github.io
 
 # Documentation
 Builds pages from `docs` and deploys to master branch using Travis CI.
